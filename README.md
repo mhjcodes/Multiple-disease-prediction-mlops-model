@@ -1,5 +1,5 @@
 # Multiple Disease Prediction System
-**Python Project - Analyze Sale data to improve customer experience and sales.**
+**Python Project - Analyze past medical data to detect diseases using machine learning algorithms.**
 
 Welcome to the "Python_Sale_Business_Analysis" repository! This project aims to provide valuable insights from sales data, which can be used to enhance customer experience and optimize sales strategies. The analysis is performed using Jupyter Lab and utilizes popular Python libraries such as Pandas and Seaborn. The provided CSV data file contains sales information that will be analyzed to uncover patterns and trends.
 
